@@ -1,6 +1,6 @@
 # face-api-js-demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html){:target="_blank"}
+<a href="https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Live Demo"></a>
 
 Welcome to the face-api.js demo! This is a single-page HTML application that showcases the implementation of face-api.js.
 
