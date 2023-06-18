@@ -1,8 +1,15 @@
 # face-api-js-demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html){:target="_blank"}
 
 Welcome to the face-api.js demo! This is a single-page HTML application that showcases the implementation of face-api.js.
+
+## Prerequisites
+
+Before running the demo, make sure you have the following:
+
+- A working webcam plugged into your device.
+- Ensure that your browser has permission to access your webcam.
 
 ## Usage
 
@@ -26,8 +33,12 @@ Welcome to the face-api.js demo! This is a single-page HTML application that sho
    
 Please note that the live demo is hosted on a free web server, which may cause some slowness. Please be patient and allow it to run.
 
+## About the Author
+
+My name is Ts. Leong Yee Rock, and I am the developer behind this face-api.js demo. I work at VYROX IoT, a company specializing in IoT solutions.
+
 ## Live Demo
 
-For a live demonstration, [click here](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html). Feel free to explore the face-api.js demo and experiment with different images and faces.
+For a live demonstration, [click here](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html){:target="_blank"}. Remember to plug in your webcam and allow the browser to access it before running the demo. Feel free to explore the face-api.js demo and experiment with different images and faces.
 
 Enjoy!
