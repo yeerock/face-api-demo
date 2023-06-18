@@ -32,7 +32,7 @@ Please note that the live demo is hosted on a free web server, which may cause s
 
 ## About the Author
 
-My name is Ts. Leong Yee Rock, and I am the hobbyist programmers behind this face-api.js demo. I work at VYROX IoT, a company specializing in IoT solutions.
+My name is Ts. Leong Yee Rock, and I am the hobbyist programmer behind this face-api.js demo. I work at VYROX IoT, a company specializing in IoT solutions.
 
 ## Live Demo
 
