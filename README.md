@@ -36,10 +36,12 @@ Please note that the live demo is hosted on a free web server, which may cause s
 
 ## About the Author
 
-I am Leong Yee Rock, a dedicated hobbyist engineer, and the developer behind this application. I am proud to be a part of VYROX.com IoT, an esteemed research and development company specializing in IoT solutions.
+I am Leong Yee Rock, a dedicated hobbyist engineer, and the developer behind this application. I am proud to be a part of [VYROX IoT](https://vyrox.com), an esteemed research and development company specializing in IoT solutions.
 
 ## Live Demo
 
 To experience the live demo, [click here](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo.html) (Desktop) | [click here](https://yeerock.000webhostapp.com/face-api-js-demo/face-api-js-demo-mobile.html) (Mobile). Ensure your webcam is plugged in and that your browser has permission to access it. Feel free to explore the face-api.js demo and experiment with different images and faces.
+
+For any issues or further information, please contact me through [my page](https://vyrox.com/about.php).
 
 Enjoy!
